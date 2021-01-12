@@ -8,6 +8,6 @@ export default axios.create({
     part: 'snippet',
     type: 'video',
     maxResults: 5,
-    key: 'AIzaSyDZad7ML5AlD-4D2PEoUlwP8i-tRAfQkaI'
+    key: KEY
   }
 });
